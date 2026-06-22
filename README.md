@@ -1,16 +1,18 @@
  Hi, I'm Aqsa Ishtiaq 👋
 
-I'm a Full Stack Developer from Lahore, Pakistan, who came 
-into tech through an unconventional path — two Master's degrees 
-in English Literature and Education Leadership taught me how to 
-think clearly, communicate well, and solve problems creatively. 
+I'm a Full Stack Developer from Lahore, Pakistan, 
+who came into tech through an unconventional path — 
+two Master's degrees in English Literature and 
+Education Leadership taught me how to think clearly, 
+communicate well, and solve problems creatively. 
 Now I build things for the web.
+I work with the MERN stack (MongoDB, Express.js, 
+React, Node.js) and deploy real world applications 
+using MongoDB Atlas, Vercel and Render.
 
-I work with the MERN stack (MongoDB, Express.js, React, Node.js)
-and I deploy real world applications using MongoDB Atlas,
-Vercel and Render.
+---
 
-What I Work With
+ What I Work With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -22,30 +24,31 @@ What I Work With
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
+
  Things I've Built
 
 | Project | What it does | Status | Live |
 |---|---|---|---|
-| LMS Platform | Full stack LMS with auth, courses and wishlist | ✅ Complete | [View Live](your-vercel-link) |
+| LMS Platform | Full stack LMS with auth, courses and wishlist | ✅ Complete | [View Live](https://lms-frontend-seven-lilac.vercel.app) |
 | Gym Website | Full stack gym platform with contact system | 🔄 Backend In Progress | Coming Soon |
-| Calculator | Fully functional calculator app | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/calculator-app) |
+| Weather App | Live weather data — temp, humidity, wind speed | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
 | Tic Tac Toe | Two player game with win detection | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
+| Calculator | Fully functional calculator app | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
 | University Landing Page | Responsive university website | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) |
-| Jumia Clone | E-commerce frontend clone | ✅ Complete | Coming Soon |
-| Weather App | Live weather data — temp, humidity, wind speed | ✅ Complete | Coming Soon |
+| GC University Webpage | HTML/CSS university page | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
 
 ---
 
-🎓 Certifications
+ 🎓 Certifications
 
 - 🏆 **IT Specialist - JavaScript** | Certiport (Pearson VUE) — [View Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874)
-- ✅ Full Stack Development | Quantum International Lahore — Grade A
-- ✅ Full Stack Development | Navttac
-- ✅ Full Stack Development | IDEO University
+- ✅ **Full Stack Development — Grade A** | IDEO University
+- ✅ Full Stack Development | Quantum International Lahore
+- ✅ Full Stack Development | Navttac (Government of Pakistan)
 
----
 
-GitHub Stats
+ GitHub Stats
 
 ![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark)
 
@@ -53,7 +56,7 @@ GitHub Stats
 
 ---
 
- Let's Connect
+Let's Connect
 
 I'm currently looking for paid internship opportunities
 — on-site in Lahore or remote. Feel free to reach out!
