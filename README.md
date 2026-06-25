@@ -1,4 +1,4 @@
- Hi, I'm Aqsa Ishtiaq 👋
+# Hi, I'm Aqsa Ishtiaq 👋
 
 I'm a Full Stack Developer from Lahore, Pakistan, 
 who came into tech through an unconventional path — 
@@ -10,9 +10,7 @@ I work with the MERN stack (MongoDB, Express.js,
 React, Node.js) and deploy real world applications 
 using MongoDB Atlas, Vercel and Render.
 
----
-
- What I Work With
+What I Work With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -24,9 +22,30 @@ using MongoDB Atlas, Vercel and Render.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
+🏆 Certifications
 
- Things I've Built
+>  🌍 International
+> 
+> **IT Specialist – JavaScript**
+> Certiport | Pearson VUE Business
+> ✅ Recognized in 140+ countries worldwide
+> [View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874)
+>
+>**🇦🇪 AI Prompt Engineering**
+> 1 Million Prompters Initiative
+> Dubai Future Foundation
+> Issued under the directives of
+> **HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum**
+> Crown Prince of Dubai
+> Aligned with the Dubai Universal Blueprint for Artificial Intelligence
+
+>  🇵🇰 National
+> - ⭐ **Full Stack Web Development — Grade A** | IDEOversity
+> - ✅ Full Stack Web Development | Quantum International, Lahore
+> - ✅ Full Stack Web Development | Navttac (Government of Pakistan)
+
+
+🚀 Things I've Built
 
 | Project | What it does | Status | Live |
 |---|---|---|---|
@@ -38,17 +57,7 @@ using MongoDB Atlas, Vercel and Render.
 | University Landing Page | Responsive university website | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) |
 | GC University Webpage | HTML/CSS university page | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
 
----
-
- 🎓 Certifications
-
-- 🏆 **IT Specialist - JavaScript** | Certiport (Pearson VUE) — [View Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874)
-- ✅ **Full Stack Development — Grade A** | IDEO University
-- ✅ Full Stack Development | Quantum International Lahore
-- ✅ Full Stack Development | Navttac (Government of Pakistan)
-
-
- GitHub Stats
+GitHub Stats
 
 ![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark)
 
