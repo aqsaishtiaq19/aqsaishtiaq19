@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer (MERN)** from Lahore, Pakistan, who came into tech through an unconventional path — two Master's degrees in English Literature and Education Leadership taught me how to think clearly, communicate well, and solve problems creatively. Now I build things for the web.
 
-I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy real-world applications using MongoDB Atlas, Vercel, and Render. I shipped a **live, deployed full stack application** within months of starting — and I'm now seeking a paid internship to bring that same speed to a real engineering team.
+I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy real-world applications using MongoDB Atlas, Vercel, and Railway. I shipped a **live, deployed full stack application** within months of starting — and I'm now seeking a paid internship to bring that same speed to a real engineering team.
 
 ---
 
@@ -19,7 +19,7 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -46,7 +46,7 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 > **💡 AI Concepts for Developers & Technology Professionals** 🏆
 > Microsoft Learn | June 2026
-> [🔗 View Trophy & Achievement](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/print/7ddmruqz?tab=tab-learning-paths)
+> [🔗 View Trophy & Achievement](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/7ddmruqz)
 
 ### 🇵🇰 National
 
@@ -60,8 +60,8 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 | Project | What it does | Stack | Status | Live |
 |---|---|---|---|---|
-| 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-seven-lilac.vercel.app) |
-| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | 🔄 In Progress | [View Live](https://gym-tamplate.vercel.app) |
+| 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-momin2.vercel.app/) |
+| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | ✅ Complete | [View Live](https://gym-tamplate-git-main-momin2.vercel.app/) |
 | ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
 | 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
 | 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
@@ -70,15 +70,6 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 | 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | *(link coming soon)* |
 | 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | *(link coming soon)* |
 
----
-
-## 💼 Experience
-
-**Software Development Intern** | Software House, Lahore *(Jan 2026 – Mar 2026)*
-Built reusable React components, integrated MongoDB Atlas, received senior engineer code reviews, and supported sprint delivery across frontend tasks.
-
-**Business Development Officer** | Ciel Tech *(Jun 2025 – Nov 2025)*
-Led lead generation, email marketing campaigns, and cross-functional outreach reporting.
 
 ---
 
