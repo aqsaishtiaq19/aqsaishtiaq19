@@ -34,7 +34,9 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 > Certiport | Pearson VUE Business
 > ✅ Recognized in **140+ countries** worldwide
 > 📅 Issued: May 20, 2026 | Valid until: May 2031 | Cert Code: `MXPr-s4qR`
-> [🔗 View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url) | [✅ Verify Certificate](https://verify.certiport.com)
+>
+> 🏅 **Personal Badge (Credly)** → [View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
+> 📜 **Official Certificate (Certiport)** → [Verify Certificate](https://verify.certiport.com)
 
 > **🤖 AI Prompt Engineering**
 > 1 Million Prompters Initiative — Dubai Centre for AI
@@ -42,8 +44,9 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 > Issued under the directives of **HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum**, Crown Prince of Dubai
 > Aligned with the Dubai Universal Blueprint for Artificial Intelligence
 
-> **💡 AI Concepts for Developers & Technology Professionals**
+> **💡 AI Concepts for Developers & Technology Professionals** 🏆
 > Microsoft Learn | June 2026
+> [🔗 View Trophy & Achievement](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/print/7ddmruqz?tab=tab-learning-paths)
 
 ### 🇵🇰 National
 
@@ -58,14 +61,14 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 | Project | What it does | Stack | Status | Live |
 |---|---|---|---|---|
 | 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-seven-lilac.vercel.app) |
-| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | 🔄 In Progress | Coming Soon |
+| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | 🔄 In Progress | [View Live](https://gym-tamplate.vercel.app) |
 | ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
 | 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
 | 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
 | 🎓 **University Landing Page** | Responsive university website with Google Fonts API | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) |
 | 🏛️ **GC University Webpage** | Multi-section university page | HTML/CSS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
-| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | — |
-| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | — |
+| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | *(link coming soon)* |
+| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | *(link coming soon)* |
 
 ---
 
