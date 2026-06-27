@@ -1,16 +1,12 @@
 # Hi, I'm Aqsa Ishtiaq 👋
 
-I'm a Full Stack Developer from Lahore, Pakistan, 
-who came into tech through an unconventional path — 
-two Master's degrees in English Literature and 
-Education Leadership taught me how to think clearly, 
-communicate well, and solve problems creatively. 
-Now I build things for the web.
-I work with the MERN stack (MongoDB, Express.js, 
-React, Node.js) and deploy real world applications 
-using MongoDB Atlas, Vercel and Render.
+I'm a **Full Stack Developer (MERN)** from Lahore, Pakistan, who came into tech through an unconventional path — two Master's degrees in English Literature and Education Leadership taught me how to think clearly, communicate well, and solve problems creatively. Now I build things for the web.
 
-What I Work With
+I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy real-world applications using MongoDB Atlas, Vercel, and Render. I shipped a **live, deployed full stack application** within months of starting — and I'm now seeking a paid internship to bring that same speed to a real engineering team.
+
+---
+
+## 🛠️ What I Work With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -18,56 +14,90 @@ What I Work With
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-🏆 Certifications
+---
 
->  🌍 International
-> 
-> **IT Specialist – JavaScript**
+## 🏆 Certifications
+
+### 🌍 International
+
+> **🥇 IT Specialist – JavaScript** *(+ Trophy Award)*
 > Certiport | Pearson VUE Business
-> ✅ Recognized in 140+ countries worldwide
-> [View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874)
->
->**🇦🇪 AI Prompt Engineering**
-> 1 Million Prompters Initiative
+> ✅ Recognized in **140+ countries** worldwide
+> 📅 Issued: May 20, 2026 | Valid until: May 2031 | Cert Code: `MXPr-s4qR`
+> [🔗 View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url) | [✅ Verify Certificate](https://verify.certiport.com)
+
+> **🤖 AI Prompt Engineering**
+> 1 Million Prompters Initiative — Dubai Centre for AI
 > Dubai Future Foundation
-> Issued under the directives of
-> **HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum**
-> Crown Prince of Dubai
+> Issued under the directives of **HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum**, Crown Prince of Dubai
 > Aligned with the Dubai Universal Blueprint for Artificial Intelligence
 
->  🇵🇰 National
-> - ⭐ **Full Stack Web Development — Grade A** | IDEOversity
-> - ✅ Full Stack Web Development | Quantum International, Lahore
-> - ✅ Full Stack Web Development | Navttac (Government of Pakistan)
+> **💡 AI Concepts for Developers & Technology Professionals**
+> Microsoft Learn | June 2026
 
+### 🇵🇰 National
 
-🚀 Things I've Built
+- ⭐ **Full Stack Web Development — Grade A** | IDEO University/College
+- ✅ **Full Stack Web Development** | Navttac (Government of Pakistan)
+- ✅ **Full Stack Web Development** | Quantum International, Lahore
 
-| Project | What it does | Status | Live |
-|---|---|---|---|
-| LMS Platform | Full stack LMS with auth, courses and wishlist | ✅ Complete | [View Live](https://lms-frontend-seven-lilac.vercel.app) |
-| Gym Website | Full stack gym platform with contact system | 🔄 Backend In Progress | Coming Soon |
-| Weather App | Live weather data — temp, humidity, wind speed | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
-| Tic Tac Toe | Two player game with win detection | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
-| Calculator | Fully functional calculator app | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
-| University Landing Page | Responsive university website | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) |
-| GC University Webpage | HTML/CSS university page | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
+---
 
-GitHub Stats
+## 🚀 Things I've Built
+
+| Project | What it does | Stack | Status | Live |
+|---|---|---|---|---|
+| 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-seven-lilac.vercel.app) |
+| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | 🔄 In Progress | Coming Soon |
+| ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
+| 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
+| 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
+| 🎓 **University Landing Page** | Responsive university website with Google Fonts API | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) |
+| 🏛️ **GC University Webpage** | Multi-section university page | HTML/CSS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
+| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | — |
+| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | — |
+
+---
+
+## 💼 Experience
+
+**Software Development Intern** | Software House, Lahore *(Jan 2026 – Mar 2026)*
+Built reusable React components, integrated MongoDB Atlas, received senior engineer code reviews, and supported sprint delivery across frontend tasks.
+
+**Business Development Officer** | Ciel Tech *(Jun 2025 – Nov 2025)*
+Led lead generation, email marketing campaigns, and cross-functional outreach reporting.
+
+---
+
+## 🎓 Education
+
+- **M.A. Education Leadership and Management** | University of the Punjab
+- **M.A. English Literature** | University of the Punjab
+
+---
+
+## 📊 GitHub Stats
 
 ![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark)
 
 ---
 
-Let's Connect
+## 🤝 Let's Connect
 
-I'm currently looking for paid internship opportunities
-— on-site in Lahore or remote. Feel free to reach out!
+I'm currently looking for **paid internship opportunities** — on-site in Lahore or remote. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aqsaishtiaq19@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
