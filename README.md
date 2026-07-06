@@ -95,7 +95,6 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 ## 📊 GitHub Stats
 
 ![Aqsa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aqsaishtiaq19&theme=dark)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark&langs_count=6)
 
 ---
 
