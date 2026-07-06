@@ -93,8 +93,10 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 ## 📊 GitHub Stats
 
-![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark)
+![Aqsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark&cache_seconds=1800)
+
+
 
 ---
 
