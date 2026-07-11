@@ -1,6 +1,6 @@
 # Hi, I'm Aqsa Ishtiaq 👋
 
-I'm a **Full Stack Developer (MERN)** from Lahore, Pakistan, who came into tech through an unconventional path — two Master's degrees in English Literature and Education Leadership taught me how to think clearly, communicate well, and solve problems creatively. Now I build things for the web.
+I'm a **Full Stack Developer (MERN)** from Lahore, Pakistan, who came into tech through an unconventional path  two Master's degrees in English Literature and Education Leadership taught me how to think clearly, communicate well, and solve problems creatively. Now I build things for the web.
 
 I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy real-world applications using MongoDB Atlas, Vercel, and Railway. I shipped a **live, deployed full stack application** within months of starting — and I'm now seeking a paid internship to bring that same speed to a real engineering team.
 
