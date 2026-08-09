@@ -1,8 +1,14 @@
 # Hi, I'm Aqsa Ishtiaq 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;Ex-English+Literature+%26+Ed+Leadership;Now+shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 I'm a **Full Stack Developer (MERN)** from Lahore, Pakistan, who came into tech through an unconventional path two Master's degrees in English Literature and Education Leadership taught me how to think clearly, communicate well, and solve problems creatively. Now I build things for the web.
 
 I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy real-world applications using MongoDB Atlas, Vercel, and Railway. I shipped a **live, deployed full stack application** within months of starting — and I'm now seeking a paid internship to bring that same speed to a real engineering team.
+
+<img src="https://komarev.com/ghpvc/?username=aqsaishtiaq19&label=Profile%20Views&color=61DAFB&style=flat" alt="Profile views" />
 
 ---
 
@@ -71,7 +77,7 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 | Project | What it does | Stack | Status | Live |
 |---|---|---|---|---|
 | 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-momin2.vercel.app/) |
-| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | ✅ Complete | [View Live](https://gym-tamplate-git-main-momin2.vercel.app/) |
+| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | ✅ Complete | [View Live](https://gym-tamplate.vercel.app/) |
 | ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
 | 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
 | 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
@@ -91,18 +97,36 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![Aqsa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aqsaishtiaq19&theme=dark)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark&hide_border=true" alt="Aqsa's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqsaishtiaq19&theme=dark&hide_border=true" alt="Aqsa's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aqsaishtiaq19&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsaishtiaq19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm currently looking for **paid internship opportunities** — on-site in Lahore or remote. Feel free to reach out!
+I'm currently looking for **internship opportunities** — on-site in Lahore or remote. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aqsaishtiaq19@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
