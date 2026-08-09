@@ -1,12 +1,16 @@
 # Hi, I'm Aqsa Ishtiaq 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;Ex-English+Literature+%26+Ed+Leadership;Now+shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-I'm a **Full Stack Developer (MERN)** from Lahore, Pakistan, who came into tech through an unconventional path two Master's degrees in English Literature and Education Leadership taught me how to think clearly, communicate well, and solve problems creatively. Now I build things for the web.
+I'm a **Full Stack Developer (MERN)** based in Lahore, Pakistan. I taught myself to code, and within months of starting I had a **live, deployed full stack application** — not just tutorials. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, **MongoDB Atlas** for data, deployed on **Vercel** and **Railway**.
 
-I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy real-world applications using MongoDB Atlas, Vercel, and Railway. I shipped a **live, deployed full stack application** within months of starting — and I'm now seeking a paid internship to bring that same speed to a real engineering team.
+Before this, I studied English Literature and Education Leadership — that background is part of why I write clean docs and explain my code clearly, but the work now is 100% shipping web apps. I'm currently looking for a paid role where I can keep building.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=aqsaishtiaq19&label=Profile%20Views&color=61DAFB&style=flat" alt="Profile views" />
 
@@ -36,33 +40,33 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 ## 🏆 Certifications
 
-### 🌍 International
+### 🌍 ***International***
 
 > **🥇 IT Specialist – JavaScript** *(+ Trophy Award)*
-> Certiport | Pearson VUE Business
+> ***Certiport | Pearson VUE Business***
 > ✅ Recognized in **140+ countries** worldwide
 > 📅 Issued: May 20, 2026 | Valid until: May 2031 | Cert Code: `MXPr-s4qR`
 >
-> 🏅 **Personal Badge (Credly)** → [View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
-> 📜 **Official Certificate (Certiport)** → [Verify Certificate](https://verify.certiport.com)
+> 🏅 **Personal Badge (Credly)** → [***View Verified Badge***](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
+> 📜 **Official Certificate (Certiport)** → [***Verify Certificate***](https://verify.certiport.com)
 
 > **🤖 AI Prompt Engineering**
-> 1 Million Prompters Initiative — Dubai Centre for AI
-> Dubai Future Foundation
+> ***1 Million Prompters Initiative — Dubai Centre for AI***
+> ***Dubai Future Foundation***
 > Issued under the directives of **HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum**, Crown Prince of Dubai
-> Aligned with the Dubai Universal Blueprint for Artificial Intelligence
+> *Aligned with the Dubai Universal Blueprint for Artificial Intelligence*
 
 > **💡 AI Concepts for Developers & Technology Professionals** 🏆
-> Microsoft Learn | June 2026
-> [🔗 View Trophy & Achievement](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/7ddmruqz)
+> ***Microsoft Learn*** | June 2026
+> [🔗 ***View Trophy & Achievement***](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/7ddmruqz)
 
 > **☁️ Introduction to Cloud Job Simulation**
-> Datacom  | July 2026
-> Completed: Register an application on the cloud · Create a GitHub Actions workflow
+> ***Datacom*** | July 2026
+> Completed: *Register an application on the cloud · Create a GitHub Actions workflow*
 
 > **🧠 GenAI for Proposal Generation Job Simulation**
-> EAB  | July 2026
-> Completed: Pre-Visit Proposal Drafting using GenAI · Pursuit Management & Proposal Refinement
+> ***EAB*** | July 2026
+> Completed: *Pre-Visit Proposal Drafting using GenAI · Pursuit Management & Proposal Refinement*
 
 ### 🇵🇰 National
 
@@ -74,19 +78,21 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 ## 🚀 Things I've Built
 
-| Project | What it does | Stack | Status | Live |
-|---|---|---|---|---|
-| 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-momin2.vercel.app/) |
-| 🏋️ **Gym Website** | Full stack gym platform with contact & MongoDB backend | MERN | ✅ Complete | [View Live](https://gym-tamplate.vercel.app/) |
-| ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) |
-| 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
-| 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) |
-| 🎓 **University Landing Page** | Responsive university website with Google Fonts API | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) |
-| 🏛️ **GC University Webpage** | Multi-section university page | HTML/CSS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
-| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | *(link coming soon)* |
-| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | *(link coming soon)* |
-| 🚌 **Row Counter** | Passenger counter with save & previous entries feature | HTML/CSS/JS | ✅ Complete | [View Live](https://6a4a6425174987c646a9c76e--glittery-cat-778fce.netlify.app/) |
-| ☁️ **Datacom Cloud Task** | GitHub Actions workflow & Azure cloud app registration | YAML · GitHub Actions | ✅ Complete | [View Repo](https://github.com/aqsaishtiaq19/datacom-cloud-task) |
+| Project | What it does | Stack | Status | Live | Backend API |
+|---|---|---|---|---|---|
+| 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-momin2.vercel.app/) | [API](https://lms-backend-momin2.vercel.app/) |
+| 🏋️ **Gym Website** | Full stack gym platform with contact form & MongoDB backend | MERN | ✅ Complete | [View Live](https://gym-tamplate.vercel.app/) | [API](https://gym-backend-nu-seven.vercel.app/) |
+| ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) | — |
+| 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) | — |
+| 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) | — |
+| 🎓 **University Landing Page** | Responsive university website with Google Fonts API | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) | — |
+| 🏛️ **GC University Webpage** | Multi-section university page | HTML/CSS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) | — |
+| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | *(link coming soon)* | — |
+| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | *(link coming soon)* | — |
+| 🚌 **Row Counter** | Passenger counter with save & previous entries feature | HTML/CSS/JS | ✅ Complete | [View Live](https://6a4a6425174987c646a9c76e--glittery-cat-778fce.netlify.app/) | — |
+| ☁️ **Datacom Cloud Task** | GitHub Actions workflow & Azure cloud app registration | YAML · GitHub Actions | ✅ Complete | [View Repo](https://github.com/aqsaishtiaq19/datacom-cloud-task) | — |
+
+> ⚠️ *Backend links are for reviewers checking the code — don't share these on LinkedIn/resume, they're just API status endpoints, not user-facing pages.*
 
 ---
 
@@ -120,7 +126,7 @@ I work with the **MERN stack** (MongoDB, Express.js, React, Node.js) and deploy 
 
 ## 🤝 Let's Connect
 
-I'm currently looking for **internship opportunities** — on-site in Lahore or remote. Feel free to reach out!
+I'm currently looking for **paid opportunities** — remote or on-site in Lahore. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
