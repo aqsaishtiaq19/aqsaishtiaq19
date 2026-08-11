@@ -106,8 +106,8 @@ Before this, I studied English Literature and Education Leadership — that back
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark&hide_border=true" alt="Aqsa's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-momin2.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=dark&hide_border=true" alt="Aqsa's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-momin2.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
