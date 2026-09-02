@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-I'm a **Full Stack Developer (MERN)** based in Lahore, Pakistan. I taught myself to code, and within months of starting I had a **live, deployed full stack application**. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, **MongoDB Atlas** for data, deployed on **Vercel** and **Railway** **Railway**.
+I'm a **Full Stack Developer (MERN)** based in Lahore, Pakistan. I taught myself to code, and within months of starting I had a **live, deployed full stack application**. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, **MongoDB Atlas** for data, deployed on **Vercel** and **Railway** **Netlify**.
 
 Before this, I studied English Literature and Education Leadership — that background is part of why I write clean docs and explain my code clearly, but the work now is 100% shipping web apps. I'm currently looking for a paid role where I can keep building.
 
