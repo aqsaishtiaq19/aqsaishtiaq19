@@ -4,13 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-I'm a **Full Stack Developer (MERN)** based in Lahore, Pakistan. I taught myself to code, and within months of starting I had a **live, deployed full stack application**. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, **MongoDB Atlas** for data, deployed on **Vercel** and **Railway** **Netlify**.
+I'm a **Full Stack Developer (MERN)** based in Lahore, Pakistan. I moved into tech through self-study and hands-on courses, and within months I had a **live, deployed full stack application**. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, and **MongoDB Atlas** for data, deployed on **Vercel**, **Netlify** and **Railway**.
 
-Before this, I studied English Literature and Education Leadership — that background is part of why I write clean docs and explain my code clearly, but the work now is 100% shipping web apps. I'm currently looking for a paid role where I can keep building.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</p>
+Before this, I studied English Literature and Education Leadership. That background is part of why I write clean docs and explain my code clearly. I'm currently looking for a paid role where I can keep building.
 
 <img src="https://komarev.com/ghpvc/?username=aqsaishtiaq19&label=Profile%20Views&color=61DAFB&style=flat" alt="Profile views" />
 
@@ -38,61 +34,70 @@ Before this, I studied English Literature and Education Leadership — that back
 
 ---
 
-## 🏆 Certifications
+## 🚀 Featured Projects
 
-### 🌍 ***International***
+| Project | What it does | Stack | Status | Links |
+|---|---|---|---|---|
+| 🎓 **LMS Platform** | Full stack LMS with auth, courses, wishlist and dashboard | MERN + JWT | ✅ Complete | [Live](https://lms-frontend-momin2.vercel.app/) · [API](https://lms-backend-momin2.vercel.app/) |
+| 🏋️ **Gym Website** | Full stack gym platform with contact form and MongoDB backend | MERN | ✅ Complete | [Live](https://gym-tamplate.vercel.app/) · [API](https://gym-backend-nu-seven.vercel.app/) |
+| 🧠 **Quiziffy** | Interactive multiple-choice quiz with score tracking | HTML/CSS/JS | 🚧 In progress | [Live](https://visionary-jalebi-60fbab.netlify.app) · [Code](https://github.com/aqsaishtiaq19/Quiziffy) |
+| ☁️ **Weather App** | Live weather (temperature, humidity, wind speed) via API | JS + API | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/Weather-app) |
 
-> **🥇 IT Specialist – JavaScript** *(+ Trophy Award)*
-> ***Certiport | Pearson VUE Business***
-> ✅ Recognized in **140+ countries** worldwide
-> 📅 Issued: May 20, 2026 | Valid until: May 2031 | Cert Code: `MXPr-s4qR`
->
-> 🏅 **Personal Badge (Credly)** → [***View Verified Badge***](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
-> 📜 **Official Certificate (Certiport)** → [***Verify Certificate***](https://verify.certiport.com)
+*API links open status endpoints, so they may show a short message instead of a page.*
 
-> **🤖 AI Prompt Engineering**
-> ***1 Million Prompters Initiative — Dubai Centre for AI***
-> ***Dubai Future Foundation***
-> Issued under the directives of **HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum**, Crown Prince of Dubai
-> *Aligned with the Dubai Universal Blueprint for Artificial Intelligence*
+<details>
+<summary><b>More projects</b></summary>
 
-> **💡 AI Concepts for Developers & Technology Professionals** 🏆
-> ***Microsoft Learn*** | June 2026
-> [🔗 ***View Trophy & Achievement***](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/7ddmruqz)
+| Project | What it does | Stack | Status | Links |
+|---|---|---|---|---|
+| 🎮 **Tic Tac Toe** | Two-player game with win and draw detection | Vanilla JS | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/tic-tac-game) |
+| 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/Calculator-app) |
+| 🚌 **Row Counter** | Passenger counter with save and previous entries | HTML/CSS/JS | ✅ Complete | [Live](https://glittery-cat-778fce.netlify.app/) |
+| 🎓 **University Landing Page** | Responsive university site using the Google Fonts API | HTML/CSS/JS | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/university-landing-page) |
+| 🏛️ **GC University Webpage** | Multi-section university page | HTML/CSS | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) |
+| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | Link coming soon |
+| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | Link coming soon |
+| ☁️ **Datacom Cloud Task** | GitHub Actions workflow and Azure app registration | YAML · GitHub Actions | ✅ Complete | [Repo](https://github.com/aqsaishtiaq19/datacom-cloud-task) |
 
-> **☁️ Introduction to Cloud Job Simulation**
-> ***Datacom*** | July 2026
-> Completed: *Register an application on the cloud · Create a GitHub Actions workflow*
-
-> **🧠 GenAI for Proposal Generation Job Simulation**
-> ***EAB*** | July 2026
-> Completed: *Pre-Visit Proposal Drafting using GenAI · Pursuit Management & Proposal Refinement*
-
-### 🇵🇰 National
-
-- ⭐ **Full Stack Web Development — Grade A** | IDEO University/College
-- ✅ **Full Stack Web Development** | Navttac (Government of Pakistan)
-- ✅ **Full Stack Web Development** | Quantum International, Lahore
+</details>
 
 ---
 
-## 🚀 Things I've Built
+## 🔨 Currently Building
 
-| Project | What it does | Stack | Status | Live | Backend API |
-|---|---|---|---|---|---|
-| 🎓 **LMS Platform** | Full stack LMS — auth, courses, wishlist, dashboard | MERN + JWT | ✅ Complete | [View Live](https://lms-frontend-momin2.vercel.app/) | [API](https://lms-backend-momin2.vercel.app/) |
-| 🏋️ **Gym Website** | Full stack gym platform with contact form & MongoDB backend | MERN | ✅ Complete | [View Live](https://gym-tamplate.vercel.app/) | [API](https://gym-backend-nu-seven.vercel.app/) |
-| ☁️ **Weather App** | Live weather — temp, humidity, wind speed via API | JS + API | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Weather-app) | — |
-| 🎮 **Tic Tac Toe** | Two-player game with win & draw detection logic | Vanilla JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/tic-tac-game) | — |
-| 🧮 **Calculator** | Fully functional calculator app | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/Calculator-app) | — |
-| 🎓 **University Landing Page** | Responsive university website with Google Fonts API | HTML/CSS/JS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/university-landing-page) | — |
-| 🏛️ **GC University Webpage** | Multi-section university page | HTML/CSS | ✅ Complete | [View Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) | — |
-| 👗 **J. Clothing Clone** | E-commerce storefront UI clone | React.js | ✅ Complete | *(link coming soon)* | — |
-| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React.js | ✅ Complete | *(link coming soon)* | — |
-| 🚌 **Row Counter** | Passenger counter with save & previous entries feature | HTML/CSS/JS | ✅ Complete | [View Live](https://6a4a6425174987c646a9c76e--glittery-cat-778fce.netlify.app/) | — |
-| ☁️ **Datacom Cloud Task** | GitHub Actions workflow & Azure cloud app registration | YAML · GitHub Actions | ✅ Complete | [View Repo](https://github.com/aqsaishtiaq19/datacom-cloud-task) | — |
+**Kanban Team Task & Project Management app**: MERN, Socket.io for real-time updates, Stripe (test mode), role-based access control, and tests with Jest and Supertest.
 
-> ⚠️ *Backend links are for reviewers checking the code — don't share these on LinkedIn/resume, they're just API status endpoints, not user-facing pages.*
+---
+
+## 🏆 Certifications
+
+### 🌍 International
+
+> **🥇 IT Specialist – JavaScript** *(+ Trophy Award)*
+> ***Certiport | Pearson VUE Business***
+> ✅ Recognized in **140+ countries**
+> 📅 Issued: May 20, 2026 | Valid until: May 2031 | Cert Code: `MXPr-s4qR`
+>
+> 🏅 **Credly Badge** → [View Verified Badge](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
+> 📜 **Official Certificate** → [Verify Certificate](https://verify.certiport.com)
+
+> **🤖 AI Prompt Engineering**
+> ***1 Million Prompters Initiative | Dubai Centre for AI, Dubai Future Foundation***
+
+> **💡 AI Concepts for Developers & Technology Professionals** 🏆
+> ***Microsoft Learn*** | June 2026
+> [View Trophy & Achievement](https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/7ddmruqz)
+
+### 🇵🇰 National
+
+- ⭐ **Full Stack Web Development, Grade A** | IDEO University/College
+- ✅ **Full Stack Web Development** | Navttac (Government of Pakistan)
+- ✅ **Full Stack Web Development** | Quantum International, Lahore
+
+### 🧪 Job Simulations
+
+- ☁️ **Introduction to Cloud**, Datacom | July 2026: registered an application on the cloud and created a GitHub Actions workflow
+- 🧠 **GenAI for Proposal Generation**, EAB | July 2026: drafted pre-visit proposals with GenAI and refined proposals
 
 ---
 
@@ -111,28 +116,16 @@ Before this, I studied English Literature and Education Leadership — that back
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqsaishtiaq19&theme=dark&hide_border=true" alt="Aqsa's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aqsaishtiaq19&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsaishtiaq19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=aqsaishtiaq19&theme=dark&hide_border=true" alt="Aqsa's GitHub Streak" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm currently looking for **paid opportunities** — remote or on-site in Lahore. Feel free to reach out!
+I'm looking for **paid opportunities**, remote or on-site in Lahore. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aqsaishtiaq19@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
