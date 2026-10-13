@@ -40,7 +40,7 @@ Before this, I studied English Literature and Education Leadership. That backgro
 |---|---|---|---|---|
 | 🎓 **LMS Platform** | Full stack LMS with auth, courses, wishlist and dashboard | MERN + JWT | ✅ Complete | [Live](https://lms-frontend-momin2.vercel.app/) · [API](https://lms-backend-momin2.vercel.app/) |
 | 🏋️ **Gym Website** | Full stack gym platform with contact form and MongoDB backend | MERN | ✅ Complete | [Live](https://gym-tamplate.vercel.app/) · [API](https://gym-backend-nu-seven.vercel.app/) |
-| 🧠 **Quiziffy** | Interactive multiple-choice quiz with score tracking | HTML/CSS/JS | 🚧 In progress | [Live](https://visionary-jalebi-60fbab.netlify.app) · [Code](https://github.com/aqsaishtiaq19/Quiziffy) |
+| 🧠 **Quiziffy** | Interactive multiple-choice quiz with score tracking | HTML/CSS/JS | ✅ Complete  | [Live](https://visionary-jalebi-60fbab.netlify.app) · [Code](https://github.com/aqsaishtiaq19/Quiziffy) |
 | ☁️ **Weather App** | Live weather (temperature, humidity, wind speed) via API | JS + API | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/Weather-app) |
 
 *API links open status endpoints, so they may show a short message instead of a page.*
