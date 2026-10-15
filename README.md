@@ -43,7 +43,6 @@ Before this, I studied English Literature and Education Leadership. That backgro
 | 🧠 **Quiziffy** | Interactive multiple-choice quiz with score tracking | HTML/CSS/JS | ✅ Complete  | [Live](https://visionary-jalebi-60fbab.netlify.app) · [Code](https://github.com/aqsaishtiaq19/Quiziffy) |
 | ☁️ **Weather App** | Live weather (temperature, humidity, wind speed) via API | JS + API | ✅ Complete | [Live](https://aqsaishtiaq19.github.io/Weather-app) |
 
-*API links open status endpoints, so they may show a short message instead of a page.*
 
 <details>
 <summary><b>More projects</b></summary>
@@ -60,12 +59,6 @@ Before this, I studied English Literature and Education Leadership. That backgro
 | ☁️ **Datacom Cloud Task** | GitHub Actions workflow and Azure app registration | YAML · GitHub Actions | ✅ Complete | [Repo](https://github.com/aqsaishtiaq19/datacom-cloud-task) |
 
 </details>
-
----
-
-## 🔨 Currently Building
-
-**Kanban Team Task & Project Management app**: MERN, Socket.io for real-time updates, Stripe (test mode), role-based access control, and tests with Jest and Supertest.
 
 ---
 
