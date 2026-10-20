@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-**Full Stack Developer (MERN) · Lahore, Pakistan · Open to Gulf, Germany & remote roles**
 
 [![Portfolio Projects](https://img.shields.io/badge/Projects-15%2B-61DAFB?style=flat)](#-projects)
 [![JavaScript Certified](https://img.shields.io/badge/Certified-IT%20Specialist%20JavaScript-brightgreen?style=flat)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
@@ -22,7 +21,7 @@ I'm a self-taught **MERN stack developer**. I moved into tech through self-study
 
 Before tech, I earned two MA degrees (English Literature, and Education Leadership and Management) and worked in teaching and business development. That background is why I write clear docs, explain my code well, and communicate easily with teams.
 
-**I'm looking for a paid developer role** (Gulf countries, Germany, or remote) where I can keep building and learning from a team.
+**I'm looking for a paid developer role**  where I can keep building and learning from a team.
 
 ---
 
@@ -79,8 +78,6 @@ Before tech, I earned two MA degrees (English Literature, and Education Leadersh
 |---|---|---|---|
 | 🎓 **University Landing Page** | Responsive university site using the Google Fonts API | HTML · CSS · JS | [Live](https://aqsaishtiaq19.github.io/university-landing-page) |
 | 🏛️ **GC University Webpage** | Multi-section university page with contact form | HTML · CSS | [Live](https://aqsaishtiaq19.github.io/GC-University-Webpage) · [Code](https://github.com/aqsaishtiaq19/GC-University-Webpage) |
-| 👗 **J. Junaid Jamshed Clone** | E-commerce storefront UI clone | React | _Link coming soon_ |
-| 👔 **Badshah Clothing Clone** | Responsive brand storefront clone | React | _Link coming soon_ |
 
 ### ☁️ Cloud & DevOps
 
