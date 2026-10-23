@@ -59,11 +59,6 @@ Before tech, I earned two MA degrees (English Literature, and Education Leadersh
 | 🎓 **LMS Platform** | Learning management system with JWT auth, protected routes, course browsing, wishlist and dashboard | React · Node · Express · MongoDB · JWT | [Live](https://lms-frontend-momin2.vercel.app/) · [API](https://lms-backend-momin2.vercel.app/) · [Frontend](https://github.com/aqsaishtiaq19/lms-frontend) · [Backend](https://github.com/aqsaishtiaq19/lms-backend) |
 | 🏋️ **Gym Website** | Gym site with a contact form that saves messages to MongoDB through a REST API | React · Node · Express · MongoDB | [Live](https://gym-tamplate.vercel.app/) · [API](https://gym-backend-nu-seven.vercel.app/) · [Frontend](https://github.com/aqsaishtiaq19/gym-tamplate) · [Backend](https://github.com/aqsaishtiaq19/gym-backend) |
 
-### 🔨 Currently Building
-
-**CrewBoard**: a team task and project management app with a Kanban board, real-time updates, and three roles (worker, manager, admin) with different permissions.
-*Stack: React · Node · Express · MongoDB · Socket.io* · Repo link coming soon
-
 ### 🧩 More Projects
 
 <details>
@@ -71,7 +66,7 @@ Before tech, I earned two MA degrees (English Literature, and Education Leadersh
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| 📱 **QR Code Generator** | Turns any text or URL into a QR code | HTML · CSS · JS · API | [Live](https://dulcet-kelpie-6bacf3.netlify.app) |
+| 📱 **QR Code Generator** | Turns any text or URL into a QR code | HTML · CSS · JS · API | [Live](https://dulcet-kelpie-6bacf3.netlify.app) · [Code](https://github.com/aqsaishtiaq19/QR-Code-Genrator) |
 | 💬 **Quote Generator** | Random quote and author on each click, with a Tweet share button | HTML · CSS · JS · API | [Live](https://velvety-cucurucho-8c5fcd.netlify.app) |
 | 🧠 **Quiziffy** | Multiple-choice quiz with instant feedback and score tracking | HTML · CSS · JS | [Live](https://visionary-jalebi-60fbab.netlify.app) · [Code](https://github.com/aqsaishtiaq19/Quiziffy) |
 | ☁️ **Weather App** | Live temperature, humidity and wind speed for any city via API | JS · API | [Live](https://aqsaishtiaq19.github.io/Weather-app) · [Code](https://github.com/aqsaishtiaq19/Weather-app) |
