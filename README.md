@@ -18,7 +18,6 @@
 
 I'm a self-taught **MERN stack developer**. I moved into tech through self-study and hands-on courses, and I've deployed full stack applications to production. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, and **MongoDB Atlas** for data, deployed on **Vercel** and **Netlify**.
 
-Before tech, I earned two MA degrees (English Literature, and Education Leadership and Management) and worked in teaching and business development. That background is why I write clear docs, explain my code well, and communicate easily with teams.
 
 **I'm looking for a paid developer role** where I can keep building and learning from a team.
 
