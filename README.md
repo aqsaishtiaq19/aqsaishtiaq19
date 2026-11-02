@@ -5,10 +5,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:61DAFB&text=Aqsa%20Ishtiaq&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=58&animation=fadeIn" alt="Aqsa Ishtiaq banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
+
+*Self-taught · Certified in JavaScript · Building full stack apps from database to deployment*
 
 [![Projects](https://img.shields.io/badge/Projects-12-61DAFB?style=for-the-badge)](#-projects)
 [![JavaScript Certified](https://img.shields.io/badge/Certified-IT%20Specialist%20JavaScript-brightgreen?style=for-the-badge)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
@@ -23,7 +25,7 @@
 
 I'm a self-taught **MERN stack developer**. I moved into tech through self-study and hands-on courses, and I've deployed full stack applications to production. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, and **MongoDB Atlas** for data, deployed on **Vercel** and **Netlify**.
 
-Before tech, I earned two MA degrees (English Literature, and Education Leadership and Management) and worked in teaching and business development. That background is why I write clear docs, explain my code well, and communicate easily with teams.
+Before tech, I earned two MA degrees (English Literature, and Education Leadership and Management) and worked in teaching and business development. *That background is why I write clear docs, explain my code well, and communicate easily with teams.*
 
 ```js
 const aqsa = {
@@ -146,20 +148,7 @@ const aqsa = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aqsaishtiaq19&show_icons=true&theme=tokyonight&hide_border=true" alt="Aqsa's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaishtiaq19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqsaishtiaq19&theme=tokyonight&hide_border=true" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsaishtiaq19&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
-</p>
+## 📊 My GitHub Activity
 
 ### 🧊 My contributions in 3D
 
