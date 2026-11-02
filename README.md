@@ -136,6 +136,14 @@ AI-powered apps ███░░░░░░░  30%   Agentic AI, learning now
 
 ## 🏆 Certifications
 
+<p align="center">
+  <a href="https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url"><img src="https://img.shields.io/badge/Certiport-IT%20Specialist%20JavaScript-1A1033?style=flat-square&labelColor=FF6B00" alt="IT Specialist JavaScript" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/aqsaishtiaq-1194/achievements/7ddmruqz"><img src="https://img.shields.io/badge/Microsoft%20Learn-AI%20Concepts-1A1033?style=flat-square&labelColor=0078D4" alt="Microsoft Learn AI Concepts" /></a>
+  <img src="https://img.shields.io/badge/Dubai%20Future%20Foundation-AI%20Prompt%20Engineering-1A1033?style=flat-square&labelColor=B8860B" alt="Dubai Future Foundation AI Prompt Engineering" />
+  <img src="https://img.shields.io/badge/NAVTTC%20PMYSDP-JavaScript%20Full%20Stack%20Grade%20A%2B-1A1033?style=flat-square&labelColor=01411C" alt="NAVTTC JavaScript Full Stack Grade A+" />
+  <img src="https://img.shields.io/badge/IDEO-Full%20Stack%20Grade%20A-1A1033?style=flat-square&labelColor=7C3AED" alt="IDEO Full Stack Grade A" />
+</p>
+
 ### 🌍 International
 
 > **🥇 IT Specialist – JavaScript** *(+ Trophy Award)*
@@ -151,8 +159,7 @@ AI-powered apps ███░░░░░░░  30%   Agentic AI, learning now
 ### 🇵🇰 National
 
 - ⭐ **Full Stack Web Development, Grade A** | IDEO University/College
-- ✅ **Full Stack Web Development** | Navttac (Government of Pakistan)
-- ✅ **Full Stack Web Development** | Quantum International, Lahore
+- ⭐ **JavaScript Full Stack (MEAN/MERN), Grade A+** | NAVTTC (Government of Pakistan), Prime Minister's Youth Skills Development Program, Batch III. Delivered by Quantum International, Lahore, Feb to May 2026
 
 ### 🧪 Job Simulations
 
