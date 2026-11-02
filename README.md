@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:EC4899,100:06B6D4&text=Aqsa%20Ishtiaq&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=58&animation=fadeIn" alt="Aqsa Ishtiaq banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:2E1065,100:7C3AED&text=Aqsa%20Ishtiaq&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=58&animation=fadeIn" alt="Aqsa Ishtiaq banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,10 +12,10 @@
 
 *Self-taught · Certified in JavaScript · Building full stack apps from database to deployment*
 
-[![Projects](https://img.shields.io/badge/Projects-12-7C3AED?style=for-the-badge&logo=github&logoColor=white)](#-projects)
-[![JavaScript Certified](https://img.shields.io/badge/Certified-IT%20Specialist%20JavaScript-brightgreen?style=for-the-badge)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
-[![Open to work](https://img.shields.io/badge/Open%20to-Paid%20Developer%20Roles-EC4899?style=for-the-badge)](#-lets-connect)
-<img src="https://komarev.com/ghpvc/?username=aqsaishtiaq19&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile views" />
+[![Projects](https://img.shields.io/badge/Projects-12-7C3AED?style=flat-square&logo=github&logoColor=white)](#-projects)
+[![JavaScript Certified](https://img.shields.io/badge/Certified-IT%20Specialist%20JavaScript-brightgreen?style=flat-square)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
+[![Open to work](https://img.shields.io/badge/Open%20to-Paid%20Developer%20Roles-9333EA?style=flat-square)](#-lets-connect)
+<img src="https://komarev.com/ghpvc/?username=aqsaishtiaq19&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -75,6 +75,27 @@ const aqsa = {
 
 ---
 
+## 📈 Skill Levels
+
+*My own honest estimate. The bar shows how comfortable I am, not how long I've used it.*
+
+```text
+HTML & CSS      █████████░  85%   Comfortable
+JavaScript      ████████░░  80%   Comfortable, IT Specialist certified
+React           ███████░░░  70%   Building real projects
+Git & GitHub    ███████░░░  70%   Daily use
+Node & Express  ██████░░░░  65%   REST APIs, JWT auth
+MongoDB         ██████░░░░  65%   Atlas, Mongoose
+TypeScript      ██░░░░░░░░  20%   Learning now
+Testing (Jest)  █░░░░░░░░░  10%   Learning now
+```
+
+**Languages I use most in my repos:** JavaScript · HTML · CSS
+
+**Spoken languages:** Urdu (native) · English (B2, EF SET) · learning German
+
+---
+
 ## 🚀 Projects
 
 ### ⭐ Featured: Full Stack (MERN)
@@ -111,6 +132,14 @@ const aqsa = {
 | ⚙️ **Datacom Cloud Task** | GitHub Actions workflow and cloud application registration | YAML · GitHub Actions | [Repo](https://github.com/aqsaishtiaq19/datacom-cloud-task) |
 
 </details>
+
+---
+
+## 💼 Experience
+
+- **Home Tutor, K to O Level** | Lahore. Taught students across several subjects and curricula, planned lessons and tracked each student's progress.
+- **Business Development** | *[Add company, years and one real achievement]*
+- **Self-directed developer** | Built and deployed 12 projects, including two full stack MERN apps, and earned international and national certificates.
 
 ---
 
@@ -159,10 +188,10 @@ const aqsa = {
 | 🎯 **Fun fact** | I used to teach O Level students, so I'm good at explaining code in simple words |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-EC4899?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-06B6D4?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-9333EA?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-A855F7?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 
 <p align="center"><i>"Make it work, make it right, make it fast."</i></p>
@@ -173,9 +202,9 @@ const aqsa = {
 
 I'm looking for **paid opportunities** in Lahore. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
-[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqsaishtiaq19@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-F59E0B?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
+[![Email](https://img.shields.io/badge/Email-9333EA?style=flat-square&logo=gmail&logoColor=white)](mailto:aqsaishtiaq19@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-6D28D9?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,50:EC4899,100:7C3AED&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7C3AED,55:2E1065,100:000000&section=footer" width="100%" alt="" />
