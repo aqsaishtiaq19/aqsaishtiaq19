@@ -25,11 +25,9 @@
 
 <h3 align="center"><i>I turn ideas into full stack apps, from the database to the browser.</i></h3>
 
-| 💻 What I build | 🎓 How I got here | 🚀 What's next |
-|---|---|---|
-| Full stack MERN apps with secure login, REST APIs and responsive React frontends, deployed live on Vercel and Netlify | Self-taught through national and international courses, backed by two master's degrees and years of teaching | A junior developer role where I can grow with a strong team, while I keep learning agentic AI and TypeScript |
+I'm a self-taught **MERN stack developer** from Lahore. I build full stack apps with **React, Node.js, Express and MongoDB** and deploy them live on Vercel and Netlify. I'm certified in JavaScript, I hold two master's degrees, and years of teaching taught me to explain complex ideas in simple words.
 
-<p align="center"><i>Years of teaching taught me to explain complex ideas in simple words, and I bring that to every team.</i></p>
+I'm now learning **agentic AI and TypeScript**, and I'm looking for a junior developer role where I can grow with a strong team.
 
 ---
 
