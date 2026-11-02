@@ -23,19 +23,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a self-taught **MERN stack developer**. I moved into tech through self-study and hands-on courses, and I've deployed full stack applications to production. I work across the whole stack: **React** on the frontend, **Node.js/Express** on the backend, and **MongoDB Atlas** for data, deployed on **Vercel** and **Netlify**.
+<h3 align="center"><i>I turn ideas into full stack apps, from the database to the browser.</i></h3>
 
-Before tech, I earned two MA degrees (English Literature, and Education Leadership and Management) and worked in teaching and business development. *Teaching taught me to explain ideas simply, and I bring that to every team I work with.*
+| 💻 What I build | 🎓 How I got here | 🚀 What's next |
+|---|---|---|
+| Full stack MERN apps with secure login, REST APIs and responsive React frontends, deployed live on Vercel and Netlify | Self-taught through national and international courses, backed by two master's degrees and years of teaching | A junior developer role where I can grow with a strong team, while I keep learning agentic AI and TypeScript |
 
-```js
-const aqsa = {
-  role: "MERN Stack Developer",
-  based: "Lahore, Pakistan 🇵🇰",
-  learning: ["Agentic AI", "AI-powered apps", "TypeScript"],
-  background: ["M.A. Education Leadership", "M.A. English Literature"],
-  lookingFor: "A paid developer role where I can keep building and learning"
-};
-```
+<p align="center"><i>Years of teaching taught me to explain complex ideas in simple words, and I bring that to every team.</i></p>
 
 ---
 
