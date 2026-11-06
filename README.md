@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:2E1065,100:7C3AED&text=Aqsa%20Ishtiaq&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=58&animation=twinkling" alt="Aqsa Ishtiaq banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
