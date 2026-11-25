@@ -2,20 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:2E1065,100:7C3AED&text=Aqsa%20Ishtiaq&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=58&animation=twinkling" alt="Aqsa Ishtiaq banner" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(MERN);I+build+things+for+the+web;JavaScript+%2B+React+%2B+Node;Shipping+full+stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,45:2E1065,100:7C3AED&text=Aqsa%20Ishtiaq&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=MERN%20Stack%20Developer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=20&descAlignY=58" alt="Aqsa Ishtiaq banner" width="100%" />
 
 *Self-taught · Certified in JavaScript · Building full stack apps from database to deployment*
 
 [![Projects](https://img.shields.io/badge/Projects-12-7C3AED?style=flat-square&logo=github&logoColor=white)](#-projects)
 [![JavaScript Certified](https://img.shields.io/badge/Certified-IT%20Specialist%20JavaScript-brightgreen?style=flat-square)](https://www.credly.com/badges/76b1066a-cb98-4623-b302-92d428e86874/public_url)
-[![Open to work](https://img.shields.io/badge/Open%20to-Paid%20Developer%20Roles-9333EA?style=flat-square)](#-lets-connect)
-<img src="https://komarev.com/ghpvc/?username=aqsaishtiaq19&label=Profile%20Views&color=A855F7&style=flat-square" alt="Profile views" />
+[![Open to work](https://img.shields.io/badge/Open%20to-Junior%20Developer%20Roles-9333EA?style=flat-square)](#-lets-connect)
 
 </div>
 
@@ -25,9 +18,11 @@
 
 <h3 align="center"><i>I turn ideas into full stack apps, from the database to the browser.</i></h3>
 
-I'm a self-taught **MERN stack developer** from Lahore. I build full stack apps with **React, Node.js, Express and MongoDB** and deploy them live on Vercel and Netlify. I'm certified in JavaScript, I hold two master's degrees, and years of teaching taught me to explain complex ideas in simple words.
+I'm a self-taught **MERN stack developer** from Lahore. I build full stack apps with **React, Node.js, Express and MongoDB** and deploy them live on Vercel and Netlify.
 
-I'm now learning **agentic AI and TypeScript**, and I'm looking for a junior developer role where I can grow with a strong team.
+My background is a little different: I hold **two master's degrees (English Literature, and Education Leadership and Management)** and have taught students from K to O Level. Teaching taught me to explain complex ideas in simple words, which helps me write clear documentation, build learner-friendly interfaces and communicate well with teammates. My biggest project so far is a **Learning Management System (LMS)**, so EdTech and e-learning products are an area I'm especially keen on.
+
+I'm now learning **TypeScript, Bootstrap and agentic AI**, and I'm looking for a **junior developer role** where I can grow with a strong team.
 
 ---
 
@@ -77,8 +72,8 @@ React           ███████░░░  70%   Building real projects
 Git & GitHub    ███████░░░  70%   Daily use
 Node & Express  ██████░░░░  65%   REST APIs, JWT auth
 MongoDB         ██████░░░░  65%   Atlas, Mongoose
-TypeScript      ██░░░░░░░░  20%   Learning now
 AI-powered apps ███░░░░░░░  30%   Agentic AI, learning now
+TypeScript      ██░░░░░░░░  20%   Learning now
 ```
 
 **Languages I use most in my repos:** JavaScript · HTML · CSS
@@ -129,7 +124,6 @@ AI-powered apps ███░░░░░░░  30%   Agentic AI, learning now
 ## 💼 Experience
 
 - **Home Tutor, K to O Level** | Lahore. Taught students across several subjects and curricula, planned lessons and tracked each student's progress.
-- **Business Development** | *[Add company, years and one real achievement]*
 - **Self-directed developer** | Built and deployed 12 projects, including two full stack MERN apps, and earned international and national certificates.
 
 ---
@@ -166,6 +160,10 @@ AI-powered apps ███░░░░░░░  30%   Agentic AI, learning now
 - ☁️ **Introduction to Cloud**, Datacom | July 2026: registered a cloud application and built a GitHub Actions workflow
 - 🧠 **GenAI for Proposal Generation**, EAB | July 2026: drafted and refined pre-visit proposals using GenAI
 
+### 📚 Short Courses
+
+- 🗣️ **Boost Your Exam Skills: Listening & Speaking B1** (Oxford Test of English Webinar) | Oxford University Press, November 2026
+
 ---
 
 ## 🎓 Education
@@ -179,23 +177,15 @@ AI-powered apps ███░░░░░░░  30%   Agentic AI, learning now
 
 | | |
 |---|---|
-| 🌱 **Currently learning** | Agentic AI, AI-powered apps and TypeScript |
-| 💼 **Looking for** | A paid junior full stack developer role in Lahore |
+| 🌱 **Currently learning** | TypeScript, Bootstrap, agentic AI and AI-powered apps |
+| 💼 **Looking for** | A paid junior full stack developer role in Lahore (open to remote) |
 | 🗣️ **I can help with** | React frontends, REST APIs with Node, Express and MongoDB |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-1A1033?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-1A1033?style=flat-square&logo=node.js&logoColor=8CC84B" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-1A1033?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JavaScript-1A1033?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
-
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm looking for **paid opportunities** in Lahore. Feel free to reach out!
+I'm looking for **paid opportunities**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1033?style=flat-square&logo=linkedin&logoColor=4DA3FF)](https://www.linkedin.com/in/aqsa-ishtiaq-67523627a)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1033?style=flat-square&logo=github&logoColor=white)](https://github.com/aqsaishtiaq19)
