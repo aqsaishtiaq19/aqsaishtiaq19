@@ -136,6 +136,7 @@ TypeScript      ██░░░░░░░░  20%   Learning now
   <img src="https://img.shields.io/badge/Dubai%20Future%20Foundation-AI%20Prompt%20Engineering-1A1033?style=flat-square&labelColor=B8860B" alt="Dubai Future Foundation AI Prompt Engineering" />
   <img src="https://img.shields.io/badge/NAVTTC%20PMYSDP-JavaScript%20Full%20Stack%20Grade%20A%2B-1A1033?style=flat-square&labelColor=01411C" alt="NAVTTC JavaScript Full Stack Grade A+" />
   <img src="https://img.shields.io/badge/IDEO-Full%20Stack%20Grade%20A-1A1033?style=flat-square&labelColor=7C3AED" alt="IDEO Full Stack Grade A" />
+  <img src="https://img.shields.io/badge/Oxford%20University%20Press-Listening%20%26%20Speaking%20B1%20Webinar-1A1033?style=flat-square&labelColor=002147" alt="Oxford University Press Listening and Speaking B1 Webinar" />
 </p>
 
 ### 🌍 International
